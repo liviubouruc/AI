@@ -1,0 +1,9 @@
+r r v v
+r a a a
+v v v v
+a a a a
+
+* 0 0 0
+0 0 0 0
+0 a 0 0
+0 @ 0 0

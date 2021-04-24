@@ -1,0 +1,11 @@
+v v v l l l
+v l v v g l
+v l l l g g
+v l v r r r
+v v v a a l
+
+v 0 * 0 0 0
+v 0 0 g 0 0
+0 0 0 0 0 r
+0 0 a v 0 0
+v v a 0 @ 0

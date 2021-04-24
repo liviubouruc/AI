@@ -1,0 +1,11 @@
+Pas 0). Incepe drumul cu cizme de culoarea r din locatia [0, 3]. Incaltat: r (purtari 1). Desaga: nimic. Fara piatra
+Pas 1). A gasit cizme a. Paseste din [0, 3] in [0, 2]. Incaltat r (purtari: 2). Desaga a (purtari 0). Fara piatra.
+Pas 2). Schimba cizmele din desaga cu cele din patratel si porneste la drum. Paseste din [0, 2] in [0, 1]. Incaltat r (purtari: 0). Desaga r (purtari 0). Fara piatra.
+Pas 3). Schimba cizmele din desaga cu cele din patratel si porneste la drum. Paseste din [0, 1] in [0, 2]. Incaltat r (purtari: 1). Desaga a (purtari 0). Fara piatra.
+Pas 4). Incalta cizmele din desaga si porneste la drum. Paseste din [0, 2] in [1, 2]. Incaltat a (purtari: 1). Desaga r (purtari 1). Fara piatra.
+Pas 5). Paseste din [1, 2] in [2, 2]. Incaltat a (purtari: 2). Desaga r (purtari 1). Cu piatra.
+Pas 6). Paseste din [2, 2] in [1, 2]. Incaltat a (purtari: 3). Desaga r (purtari 1). Cu piatra.
+Pas 7). I s-au tocit cizmele. Incalta cizmele din desaga si porneste la drum. . Schimba cizmele din desaga cu cele din patratel si porneste la drum. Paseste din [1, 2] in [0, 2]. Incaltat r (purtari: 2). Desaga a (purtari 0). Cu piatra.
+Pas 8). Paseste din [0, 2] in [0, 3]. Incaltat r (purtari: 3). Desaga a (purtari 0). Cu piatra.
+A iesit din pestera. Costul drumului: 8. Timpul de executie: 0.014002084732055664. Noduri generate: 35. Numarul maxim de noduri din memorie: 25
+
