@@ -297,10 +297,10 @@ def min_max(stare):
 
     if stare.j_curent == Joc.JMAX:
         # daca jucatorul e JMAX aleg starea-fiica cu scorul maxim
-        stare.stare_aleasa = min(mutari_scor, key=lambda x: x.scor)
+        stare.stare_aleasa = max(mutari_scor, key=lambda x: x.scor)
     else:
         # daca jucatorul e JMIN aleg starea-fiica cu scorul minim
-        stare.stare_aleasa = max(mutari_scor, key=lambda x: x.scor)
+        stare.stare_aleasa = min(mutari_scor, key=lambda x: x.scor)
     stare.scor = stare.stare_aleasa.scor
     return stare
 
